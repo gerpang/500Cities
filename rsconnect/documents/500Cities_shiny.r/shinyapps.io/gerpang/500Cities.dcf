@@ -1,0 +1,13 @@
+name: 500Cities
+title: 500Cities
+username:
+account: gerpang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 513092
+bundleId: 1641867
+url: https://gerpang.shinyapps.io/500Cities/
+when: 1539509509.45291
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: sample.r
